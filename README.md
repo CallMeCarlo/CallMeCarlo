@@ -14,3 +14,21 @@ Hablo Inglés y Español pues mi padre es hablante nativo del primer idioma por 
 
 En mis tiempos libres me gusta ir al gimnasio y jugar videojuegos :D
 
+
+////////////////////////////////////////////////////////////////////////
+
+
+Hello Hello, how are you, My full name is Carlo Fabio Márquez Fernández, I am an Electronics Engineer.
+When I started my career I found a great passion for programming, so I decided to focus fully on it.
+I like to take programming courses to learn more and more to be able to work professionally in Web Development
+At university I learned to use languages such as Java and C++ but I knew that I shouldn't stay with just that, so I expanded my knowledge.
+
+In mid-2023 I decided to learn new technologies such as HTML, CSS, Javascript and SCSS,
+Python, PHP, MVC, MYSQL, TablePlus and I plan to learn Laravel in the not too distant future
+I would like to focus directly on the Backend but you always have to be open to other possibilities.
+
+I speak English and Spanish because my father is a native speaker of the first language, so from the age of 8 we both had to communicate haha.
+
+
+In my free time I like to go to the gym and play video games :D
+
